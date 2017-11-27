@@ -26,7 +26,7 @@ gbtModel=model.stages[2]
 
 print(gbtModel)
 
-"""OUTPUT -Gradient-boosted tree 
+"""OUTPUT - Gradient-boosted tree 
 +----------+------------+--------------------+
 |prediction|indexedLabel|            features|
 +----------+------------+--------------------+
